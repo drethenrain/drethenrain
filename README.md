@@ -35,6 +35,10 @@
 </p>
 
 <p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drethenrain&layout=compact&hide_border=true&icon_color=41B883&title_color=fff&text_color=fff&icon_color=fff&bg_color=1e2228" />
+</p>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=drethenrain&label=Profile%20views&color=1e2228&style=flat" alt="drethen" />
 <a href="mailto:drethenrain@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-drethenrain-blue?style=flat&logo=microsoft-outlook"></a>
 </p>
