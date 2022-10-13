@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=drethenrain&show_icons=true&custom_title=DrethenRain%20Github%20Stats&title_color=fff&text_color=fff&icon_color=fff&bg_color=1e2228&hide_border=true" alt="Statistics." />
+<img src="https://github-readme-stats.vercel.app/api?username=drethenrain&show_icons=true&custom_title=DrethenRain%20Github%20Stats&title_color=fff&text_color=fff&icon_color=fff&bg_color=1e2228&hide_border=true" alt="Statistics." />
 </p>
 
 <p align="center">
