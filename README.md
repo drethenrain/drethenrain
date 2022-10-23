@@ -6,7 +6,7 @@
     </samp>
 </p>
 
-<h3 align="left">Languages and Technologies:</h3>
+<h3 align="left">Languages and Technologies: </h3>
 
 <p align="left">
 
